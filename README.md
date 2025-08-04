@@ -1,4 +1,7 @@
 # Lab 3: Input Validation & Sanitization
+<img width="1872" height="956" alt="{97C222D8-9406-47B1-8ED8-F081521B91A3}" src="https://github.com/user-attachments/assets/4fa4279e-1b21-429f-9c2a-0ecf61d6e9a3" />
+
+
 
 ## 🎯 Objectives
 This lab demonstrates client-side input validation and sanitization techniques to prevent security vulnerabilities and ensure data integrity.
@@ -162,5 +165,6 @@ After completing this lab, you should understand:
 - Web Application Security
 
 ---
+
 
 **Note**: This lab focuses on client-side validation and sanitization. In production applications, server-side validation and sanitization are also essential for complete security. 
